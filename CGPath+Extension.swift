@@ -1,6 +1,6 @@
 //
 //  CGPath+Extension.swift
-//  CharacterTracing
+//  TracingCharacter 
 //
 //  Created by Mohd Arsad on 11/10/20.
 //  Copyright © 2020 Mohd Arsad. All rights reserved.
